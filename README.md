@@ -1,0 +1,2 @@
+# communicationWithAdhocNetwork
+<p>Project is based on the communication between the nodes using the ad hoc network communication. in this project we will provide the different type of communication like audio video and text messaging. As this Project is based on the nodes connection so this communication is free of cost. this project is specially design for the organization who work for the same purpose. </p>
